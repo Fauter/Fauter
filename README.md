@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Mi nombre es Fausto Lalia</h1>
-<h2 align="center">Conocido como Fauter en GitHub</h2>
+<h3 align="center">Conocido como Fauter en GitHub</h3>
 
 - ¿Quién soy? **Soy Fausto, un Full-Stack. Developer de 22 años, radicado en Argentina. Ansioso por comenzar a desenvolverme en el campo tech y colaborar en equipo, aportando disposición para aprender continuamente, explorando nuevas herramientas y tecnologías para enriquecer mi perfil profesional.**
 
